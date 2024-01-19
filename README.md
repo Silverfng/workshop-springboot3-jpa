@@ -1,4 +1,4 @@
-# Workshop Springboot - JPA
+# Web Services - Workshop Springboot - JPA / Hibernate
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Silverfng/workshop-springboot3-jpa/blob/main/LICENSE)
 
 # Sobre o projeto
