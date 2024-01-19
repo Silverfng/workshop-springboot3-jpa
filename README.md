@@ -5,7 +5,7 @@
 
 Workshop Springboot JPA é uma aplicação desenvolvida de acordo com os ensimaentos providos pelo curso *Java Completo Programação Orientada a Objetos*, ministrado pelo professor Nelio Alves. [Curso Udemy](https://www.udemy.com/course/java-curso-completo/).
 
-A aplicação consiste ser uma aplicação com operações consistentes de Spring, operações essênciais (CRUD), boas práticas, Exceptions etc.
+A aplicação consiste em trazer operações consistentes de Spring, operações essênciais (CRUD), boas práticas, Exceptions etc.
 
 # Tecnologias utilizadas
 ## Back end
