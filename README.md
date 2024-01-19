@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Workshop Springboot JPA é uma aplicação desenvolvida de acordo com os ensimaentos providos pelo curso *Java Completo Programação Orientada a Objetos*, ministrado pelo professor Nelio Alves. [Curso Udemy](https://www.udemy.com/course/java-curso-completo/).
+Web Services Workshop Springboot JPA é uma aplicação desenvolvida de acordo com os ensinamentos providos pelo curso *Java Completo Programação Orientada a Objetos*, ministrado pelo professor Nelio Alves. [Curso Udemy](https://www.udemy.com/course/java-curso-completo/).
 
 A aplicação consiste em trazer operações consistentes de Spring, operações essênciais (CRUD), boas práticas, Exceptions etc.
 
