@@ -12,6 +12,7 @@ A aplicação consiste em trazer operações consistentes de Spring, operações
 - Java
 - Spring Boot
 - JPA / Hibernate
+- Rest
 - Maven
 - H2
 
